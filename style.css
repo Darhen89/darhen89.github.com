@@ -1,10 +1,10 @@
-/* ------------------------------------------------- NORMALIZACION -------------------------------------- */
+ /* ------------------------------------------------- NORMALIZACION -------------------------------------- */
 
 html {
 }
 
 body {
-  font-family: "HelveticaNeue", "Helvetica", Arial, sans-serif;
+	font-family: "HelveticaNeue", "Helvetica", Arial, sans-serif;
 	font-size: x-small;
 	font-variant:normal;
 	font-style:normal;
@@ -161,7 +161,7 @@ h2 {
 .period .date {
 	float: left;
 	margin-right: 2em;
-	width: 14em;
+	width: 15em;
 	color: #808080;
 	font-size: 1.8em;
 	line-height: 1.3em;
@@ -169,7 +169,7 @@ h2 {
 
 .period .description {
 	float: left;
-	width: 61em;
+	width: 59em;
 	margin-bottom: 0.5em;
 }
 
@@ -183,7 +183,7 @@ h2 {
  font-family: "HelveticaNeue-Light", "HelveticaNeue", "Helvetica";
 }
 
-.period .description .job, .period .description .studies {
+.period .description .job, .period .description .studies{
 	font-weight: bold;
 	font-size: 1.8em;	
 	line-height: 1.3em;
@@ -276,3 +276,43 @@ h2 {
 	font-size: 1.6em;
 	line-height: 1.4em;
 }
+.datos_personales{
+	overflow: hidden;
+	margin-bottom: 0.5em;
+}
+.datos_personales .dato{
+	float: left;
+	margin-right: 2em;
+	width: 17em;
+	font-size: 1.6em;
+	line-height: 1.3em;
+	
+}
+.datos_personales .valor{
+	float: left;
+	font-size: 1.6em;
+	margin-bottom: 0.5em;
+	width: auto;
+	
+}
+.informacion_adicional{
+	overflow: hidden;
+	margin-bottom: 0.5em;
+}
+.informacion_adicional .concepto{
+	float: left;
+	margin-right: 2em;
+	width: 15em;
+	font-size: 1.8em;
+	line-height: 1.3em;	
+}
+.informacion_adicional .informacion{
+	float: left;
+	font-size: 1.6em;
+	margin-bottom: 2em;
+	line-height: 1.3em;	
+	width: 37em;
+}
+
+
+
