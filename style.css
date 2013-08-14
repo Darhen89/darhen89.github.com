@@ -275,6 +275,7 @@ h2 {
 .section_half ul li {
 	font-size: 1.6em;
 	line-height: 1.4em;
+	margin-bottom: 10px;
 }
 .datos_personales{
 	overflow: hidden;
