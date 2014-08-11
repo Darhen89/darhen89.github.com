@@ -153,6 +153,14 @@ h2 {
 	overflow: hidden;
 }
 
+.description{
+	
+        font-size: 1.8em;	
+	line-height: 1.3em;
+	margin-bottom: 0.2em;	
+	
+}
+
 .period {
 	overflow: hidden;
 	margin-bottom: 2em;
